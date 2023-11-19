@@ -1,4 +1,4 @@
-service pwn 
+service pwn
 {
     disable = no
     type        = UNLISTED

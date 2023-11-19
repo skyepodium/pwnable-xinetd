@@ -1,9 +1,9 @@
 version: '2.2'
 
 services:
-    pwn-server:
+    pwnable-xinetd:
         build: ./
-        image: skyepodium/pwn-server
+        image: skyepodium/pwnable-xinetd
         # external:internal
         ports:
             - "60001:8080"
