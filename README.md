@@ -13,4 +13,4 @@ Run test.py to check shell interaction
 python3 test.py
 ```
 
-![cover](./image/preview.gif)   
+![cover](./image/sample.gif)   
