@@ -1,7 +1,7 @@
 # Usage
 
 ### 1. Summary
-- binary - The `./src/chall.c` file is built and moved to `home/challege/chall`
+- You just need to change the `./src/chall.c` file.
 
 ### 2. execute
 - `docker-compose up -d` Run docker container after building docker image
